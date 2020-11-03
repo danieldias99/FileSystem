@@ -33,7 +33,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>com.mycompany.filesystem.Main</mainClass>
+                            <mainClass>file.system.presentation.Main</mainClass>
                         </manifest>
                     </archive>
                     <descriptorRefs>
