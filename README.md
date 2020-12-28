@@ -22,4 +22,4 @@ Go [Documentation](Documentation) for more details.
 
 ## Authors
 
-* **Daniel Dias** - [nerflix18](https://github.com/nerflix18)
+* **Daniel Dias** - [danieldias99](https://github.com/danieldias99)
